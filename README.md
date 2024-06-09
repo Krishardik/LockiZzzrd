@@ -43,12 +43,12 @@ The script can be executed by running the `LockiZzzrd.py` file. It provides a si
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Krishardik/PRODIGY_CS_03
+   git clone https://github.com/Krishardik/LockiZzzrd
    ```
 
 2. Navigate to the project directory:
    ```
-   cd PRODIGY_CS_03
+   cd LockiZzzrd
    ```
 
 3. Run the script:
